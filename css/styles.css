@@ -5,7 +5,13 @@ File name: styles.css
 */
 
 /*CSS Reset*/
-body, header, nav, main, footer, img, h1 {
+body,
+header,
+nav,
+main,
+footer,
+img,
+h1 {
     margin: 0;
     padding: 0;
     border: 0;
@@ -70,8 +76,10 @@ main p {
     font-weight: bold;
 }
 
-#piano, #guitar, #violin {
-    width: 29%
+#piano,
+#guitar,
+#violin {
+    width: 29%;
     float: left;
     margin: 0 2%;
 }
